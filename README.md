@@ -10,4 +10,4 @@ Linux; Сети(протоколы, Cisco и пр.); Базы данных (SQL,
 В планах: что-то из XEN, KVM, LXC, ProxMox, Ansible, Docker, Kubernetes, AWS
 
 Файл справочника постоянно в работе. Обновляется не чаще одного раза в месяц.
-Чат "Системный администратор. Начало": https://icq.com/chat/AoLB9_QGS693Zk1dSk
+Чат "Системный администратор. Начало": https://icq.com/chat/AoLB9_QGS693Zk1dSkw
