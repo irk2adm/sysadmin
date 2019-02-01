@@ -1,4 +1,4 @@
-# sysadmin
+# Справочник системного администратора. Начало
 1. Установить Freeplane (Windows, Linux, Mac) - программа для работы с диаграммами связей.
 https://sourceforge.net/projects/freeplane/
 2. Скачать файл справочника sysadmin______.mm.
