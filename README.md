@@ -16,4 +16,3 @@
  - https://wacky-tobaccy.blogspot.com/2013/04/blog-post.html
  - http://linkmeup.ru/blog/11.html
 
-Чат "Системный администратор. Начало": https://icq.com/chat/AoLB9_QGS693Zk1dSkw
