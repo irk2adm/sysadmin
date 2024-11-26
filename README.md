@@ -11,8 +11,5 @@
 4. В Марте 2019:
  - обновлены разделы: MySQL(MariaDB): Кластер, Репликация
  - обновлены все разделы в разрезе вопросов для собеседования "Linux System Administrator/DevOps Interview Questions" - https://github.com/chassing/linux-sysadmin-interview-questions
-5. В работе: перетряска справочника в разрезе выполнения 50 лабораторных работ и серии статей "Сети для самых маленьких"
- - https://yadi.sk/i/B9OylzwFnMX6dQ
- - https://wacky-tobaccy.blogspot.com/2013/04/blog-post.html
+5. В работе: перетряска справочника в разрезе серии статей "Сети для самых маленьких"
  - http://linkmeup.ru/blog/11.html
-
